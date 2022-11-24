@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoAnd1
 - 👀 I’m interested in electric things, some programing, basketball and shoter games
-- 🌱 I’m currently learning C
+- 🌱 I'm currently working on a classification project using RNNs
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
